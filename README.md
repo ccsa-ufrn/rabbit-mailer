@@ -20,3 +20,7 @@ Rabbit Mailer Client (RMC) is a NPM package, so you can install it with `npm ins
 ## Support to others platforms
 
 Currently RMC is only available to Node.JS/Javascript applications, but anothers clients will be implemented soon. If you are interested in develop a client to another language please contact the mainteiner (`mrmorais at ufrn.edu.br`).
+
+## License
+
+Rabbit Mailer is licensed over GPLv3 [read about](https://www.gnu.org/licenses/gpl-3.0.html)
