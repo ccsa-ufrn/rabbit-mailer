@@ -15,7 +15,7 @@ The unique prerequisite is to have [Rabbit Mailer Server](https://github.com/ccs
 
 ## Installing
 
-Rabbit Mailer Client (RMC) is a NPM package, so you can install it with `npm install rabbit-mailer` to your node application.
+Rabbit Mailer Client (RMC) is a NPM package, so you can install it with `npm i --save rabbit-mailer` to your node application.
 
 ## Support to others platforms
 
