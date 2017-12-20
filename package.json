@@ -1,0 +1,33 @@
+{
+  "name": "rabbit-mailer",
+  "version": "1.0.0",
+  "description": "A client to use Rabbit Mailer as mail delivering server in Node.JS apps",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccsa-ufrn/rabbit-mailer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rabbitmq",
+    "email-sender",
+    "node-mailer",
+    "rabbit-mailer"
+  ],
+  "author": "CCSA - UFRN",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ccsa-ufrn/rabbit-mailer/issues"
+  },
+  "homepage": "https://github.com/ccsa-ufrn/rabbit-mailer#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
