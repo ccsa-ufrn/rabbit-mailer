@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/ccsa-ufrn/rabbit-mailer#readme",
   "dependencies": {
-    "amqplib": "^0.5.2"
+    "amqplib": "^0.5.2",
+    "bluebird": "^3.5.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
